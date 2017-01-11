@@ -1,0 +1,15 @@
+PODS:
+  - HappyDNS (0.3.10)
+  - PLPlayerKit (2.4.0):
+    - HappyDNS (~> 0.3.10)
+
+DEPENDENCIES:
+  - PLPlayerKit
+
+SPEC CHECKSUMS:
+  HappyDNS: 06a9fed2796663fd87626dbf02552933265bf059
+  PLPlayerKit: 4a206aa6e620fea4a93ca36b44bf736a025346d3
+
+PODFILE CHECKSUM: 82b6d60aad0d49ae1f8e9d8fd0d04c1e9d6f8d40
+
+COCOAPODS: 1.1.1
